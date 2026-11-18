@@ -2,3 +2,4 @@
 # slot = skin_XX.png (01-31). Name must match exactly (case and spaces).
 # example:
 # 1|PlayerName
+1|_AKASATA_
