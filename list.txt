@@ -1,0 +1,4 @@
+# Custom racket list: one line per player  "slot|VRChat display name"
+# slot = skin_XX.png (01-31). Name must match exactly (case and spaces).
+# example:
+# 1|PlayerName
